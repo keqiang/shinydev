@@ -1,0 +1,4 @@
+Name: Restart Shiny App
+Description: Restart the running Shiny App
+Binding: restartShinyApp
+Interactive: false
